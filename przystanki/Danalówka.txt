@@ -1,0 +1,1 @@
+'Magazynowa':[1093,192],'Bazarowa':[1525,270],'Nad Drwiną':[1770,256],

@@ -1,0 +1,1 @@
+'Szpital Żeromskiego':[204,32],'Klasztorna':[1239,143],'Plac Centralny im. R.Reagana':[897,183],

@@ -1,0 +1,1 @@
+'Nowy Kleparz':[0,0],'Politechnika':[719,144],'Wrocławska':[1047,178],'Grottgera':[1505,295],'Cmentarz Rakowicki Zachód':[2948,320],'Szpital Narutowicza':[1629,272],

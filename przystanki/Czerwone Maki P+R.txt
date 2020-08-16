@@ -1,0 +1,1 @@
+'Czerwone Maki P+R':[0,0],'Mochnaniec':[1091,187],'Bunscha':[1446,267],

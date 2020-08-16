@@ -1,0 +1,1 @@
+'Dworzec Główny Zachód':[751,196],'Cmentarz Rakowicki Zachód':[1826,321],'Nowy Kleparz':[725,213],'Dworzec Główny Wschód':[712,168],
